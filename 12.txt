@@ -1,0 +1,6 @@
+body #F9FAFF
+yello #FDC435
+line #25282B
+h1 #25282B Playfair Display Bold 64px
+paragraph #828282 Nunito 24px
+yelloline w100 h4
